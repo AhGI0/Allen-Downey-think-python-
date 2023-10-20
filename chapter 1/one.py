@@ -1,1 +1,1 @@
-print("how are you|| not all sequesnces are true to handle ")
+# i  undertand it a little a bit

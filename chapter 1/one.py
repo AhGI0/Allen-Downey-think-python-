@@ -1,5 +1,6 @@
-import math
+def print_lyrics():
+    print("I'm a lumberjack, and I'm okay.")
+    print("I sleep all night and I work all day.")
 
-dec = 15 * math.sqrt(100)  # it will be 10 * 15 == 150 
 
-print(dec)
+print_lyrics()

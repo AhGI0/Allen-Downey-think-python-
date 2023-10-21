@@ -1,3 +1,5 @@
-#  we have an int statement 
-#so the algorithm is about there is no thing called ceil like JS
-print(float(3))
+import math
+
+dec = 10 * math.pow(10,2)
+
+print(dec)

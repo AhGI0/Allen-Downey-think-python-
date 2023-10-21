@@ -1,5 +1,5 @@
 import math
 
-dec = 10 * math.pow(10,2)
+dec = 15 * math.sqrt(100)  # it will be 10 * 15 == 150 
 
 print(dec)
